@@ -26,3 +26,6 @@ We suggest that you begin by typing:
 
 ### npm install --save-dev @mightymeld/runtime
 
+### npx mightymeld init
+
+### npx mightymeld
